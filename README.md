@@ -7,3 +7,8 @@ Go to the open issues tag. When a version is updated the issue becomes closed.
 
 
 [OPEN ISSUES](https://github.com/hpssjellis/version-roast/issues)
+
+
+
+The playlist for this site is at   https://www.youtube.com/playlist?list=PL57Dnr1H_egv6uBqRCitOrmyk0DbCjUIX
+
