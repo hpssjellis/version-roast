@@ -1,0 +1,2 @@
+# version-roast
+The messy world of open-source software and hardware development mainly in the area of edgeAI and tinyML. We dive into bugs, solutions, and creative hardware requests with a relaxed, fun attitude. Products are a process, and you'll see me and my projects hit snags. Join the conversation here with a github issue, check out the already entered topics
